@@ -1,7 +1,7 @@
 DEF speak_to_grandma
   puts HUH? Speak UP, SONNY
   
-  if not, she should respond with
+  if , she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
 
