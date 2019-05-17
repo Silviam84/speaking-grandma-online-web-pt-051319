@@ -2,7 +2,8 @@ def speak_to_grandma
 if grandma_cant_hear
 returnN HU? ! SPEAK UP, SONNY'
 
-
+if phrase is == to what
+return "I love you to pumpkin"
 
 
 # Speak to Grandma
