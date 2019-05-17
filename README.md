@@ -1,3 +1,10 @@
+def speak_to_grandma
+if grandma_cant_hear
+returnN HU? ! SPEAK UP, SONNY'
+
+
+
+
 # Speak to Grandma
 
 ## Objectives
