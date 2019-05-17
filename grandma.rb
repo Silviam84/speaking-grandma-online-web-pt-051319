@@ -1,7 +1,7 @@
-uuDEF speak_to_grandma
+DEF speak_to_grandma
   puts HUH? Speak UP, SONNY
   
-  if ndma, she should respond with
+  if not, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
 
